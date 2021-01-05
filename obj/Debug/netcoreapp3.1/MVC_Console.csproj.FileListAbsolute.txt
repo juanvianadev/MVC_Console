@@ -1,0 +1,13 @@
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.exe
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.deps.json
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.json
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.dev.json
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csprojAssemblyReference.cache
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfoInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfo.cs
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csproj.CoreCompileInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\juanv\Desktop\DEV\back-end\MVC\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
